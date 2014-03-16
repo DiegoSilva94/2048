@@ -5,6 +5,7 @@
         versionCode = "10" 
         version     = "1.0.0" >
     <preference name="orientation" value="portrait" />
+    <preference name="permissions" value="none"/>
     <icon src="favicon.png" />
     <!-- versionCode is optional and Android only -->
 
