@@ -5,7 +5,7 @@
         versionCode = "10" 
         version     = "1.0.0" >
     <preference name="orientation" value="portrait" />
-    <icon src="favicon.jpg" />
+    <icon src="favicon.bmp" />
     <!-- versionCode is optional and Android only -->
 
     <name>2048</name>
